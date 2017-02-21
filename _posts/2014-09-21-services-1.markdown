@@ -4,10 +4,17 @@ category: Usage
 title: Add to Your Website or Blog
 description: |
 ---
-Test
+#### HTML
+To add this to any website you can simply use the _[magic Trump gif](http://trumps.lol/fresh.gif)_ as you would any other image:
 ```html
 <img alt="Fresh Trumps" src="http://trumps.lol/fresh.gif">
 ```
+---
+#### Markdown
+If you are using a CMS which supports Markdown you can use the code below to include the _[magic Trump gif](http://trumps.lol/fresh.gif)_.
 ```markdown
-[Fresh Trumps](http://trumps.lol/fresh.gif)
+![Fresh Trumps](http://trumps.lol/fresh.gif)
 ```
+___
+#### Wordpress
+_Coming soon_

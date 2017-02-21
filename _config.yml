@@ -5,10 +5,9 @@
 url: http://fresh.trumps.lol
 title: Fresh Trumps
 author: Donald Trump
-description: >
-  Random Donald Trump Gifs for the Masses
+description: Random Donald Trump Gifs for the Masses
 copyright: 'Copyright &copy; 2017. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: 'Artistic credit for each Gif goes to the original creator(s). Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -17,11 +16,3 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
-
-social:
-  - title: twitter
-    url: #about
