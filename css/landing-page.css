@@ -73,7 +73,7 @@ h6 {
     ul.intro-social-buttons > li {
         display: block;
         margin-bottom: 20px;
-        padding: 10px;
+        padding: 1px;
     }
 
     ul.intro-social-buttons > li:last-child {
@@ -127,10 +127,10 @@ h6 {
 }
 
 .banner ul {
-    margin-bottom: 0;
+    margin-bottom: 10px;
 }
 
-.banner-social-buttons{
+.banner-social-buttons {
     text-align: center;
     position: relative;
     margin-left: auto;
@@ -142,6 +142,7 @@ h6 {
     ul.banner-social-buttons {
         float: left;
         margin-top: 15px;
+        margin-bottom: 10px;
     }
 }
 
