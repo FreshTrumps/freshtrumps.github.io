@@ -1,7 +1,13 @@
 ---
 layout: default
-category: Services
+category: Usage
 title: Add to Your Website or Blog
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+Test
+```html
+<img src="https://trumps.lol" alt="Fresh Trumps">
+```
+```markdown
+[Fresh Trumps](https://trumps.lol)
+```
