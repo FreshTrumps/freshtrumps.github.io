@@ -6,7 +6,7 @@ description: |
 ---
 Test
 ```html
-<img src="http://trumps.lol/fresh.gif" alt="Fresh Trumps">
+<img alt="Fresh Trumps" src="http://trumps.lol/fresh.gif">
 ```
 ```markdown
 [Fresh Trumps](http://trumps.lol/fresh.gif)
