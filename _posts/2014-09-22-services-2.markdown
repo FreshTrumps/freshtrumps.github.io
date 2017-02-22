@@ -6,4 +6,4 @@ description: |
 ---
 The code behind _Fresh Trumps_ is <a href="https://github.com/FreshTrumps/web/blob/master/LICENSE">free to use</a> and easy to modify.
 
-<a href="https://github.com/FreshTrumps/web/blob/master/web.go" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i>  View Code on GitHub</a>
+<center><a href="https://github.com/FreshTrumps/web/blob/master/web.go" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i>  View Code on GitHub</a></center>
