@@ -66,8 +66,12 @@ h6 {
     padding-bottom: 20px;
     padding-left: 20px;
     color: grey;
-    text-shadow: 6px 6px 7px rgba(0,0,0,0.2);
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
     background-color: #fff;
+}
+
+.intro-message-background > h3 {
+  color: #bc1212;
 }
 
 ul.intro-social-buttons > li {

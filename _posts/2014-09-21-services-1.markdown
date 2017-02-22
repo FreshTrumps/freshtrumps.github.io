@@ -1,7 +1,7 @@
 ---
 layout: default
 category: Usage
-title: Add to Your Website or Blog
+title: Add to Your Website, Blog or Slack
 description: |
 ---
 #### HTML
@@ -15,10 +15,8 @@ If you are using a CMS which supports Markdown you can use the code below to inc
 ```markdown
 ![Fresh Trumps](http://trumps.lol/fresh.gif)
 ```
-<!---
 ___
 #### Slack
 _Fresh Trumps_ is also available as a [Slack](https://slack.com/) integration, simply click the button below to get started!
 
-<center><a class="btn btn-default btn-lg" href="javascript:window.open('https://slack.trumps.lol/login', 'Slack', 'width=600,height=500')"><i class="fa fa-slack fa-fw"></i> Add To Slack</a></center>
---->
+<center><a class="btn btn-default btn-lg" href="javascript:window.open('https://slack.trumps.lol/login', 'Slack', 'width=600,height=650')"><i class="fa fa-slack fa-fw"></i> Add To Slack</a></center>
